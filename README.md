@@ -1,0 +1,1 @@
+# Testing Xsolla Promotions API
